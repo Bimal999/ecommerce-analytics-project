@@ -1,55 +1,44 @@
-# Business Requirements Document
+# Business Requirements
 
-## Project Title
+## Project
 
 E-Commerce Analytics Platform
 
-## Business Objective
+## Objective
 
-Provide management with actionable insights regarding:
+Provide insights into:
 
-* Revenue growth
-* Profitability
-* Customer behavior
-* Product performance
-* Marketing effectiveness
-* Operational efficiency
+- Sales performance
+- Profitability
+- Customer behavior
+- Product performance
+- Marketing effectiveness
+- Shipping performance
 
-## Key Business Questions
+## Business Questions
 
 ### Sales
 
-* What is total revenue?
-* What is monthly revenue growth?
-* Which categories generate the most sales?
+1. What is total revenue?
+2. What is monthly revenue growth?
+3. Which categories generate the most revenue?
 
-### Customers
+### Customer
 
-* Who are the most valuable customers?
-* What is customer lifetime value?
-* Which customer segments generate the highest profit?
+1. Who are the highest-value customers?
+2. Which customer segments are most profitable?
 
-### Products
+### Product
 
-* Which products are top performers?
-* Which products have low profitability?
+1. Which products generate the highest profit?
+2. Which products underperform?
 
 ### Marketing
 
-* Which campaigns generate the highest revenue?
-* Which traffic sources convert best?
+1. Which campaigns generate the best ROI?
+2. Which traffic sources convert best?
 
 ### Operations
 
-* Which shipping methods perform best?
-* What is the average delivery time?
-
-## Success Metrics
-
-* Revenue
-* Profit
-* Profit Margin
-* Average Order Value
-* Customer Lifetime Value
-* Retention Rate
-* Campaign ROI
+1. What is average delivery time?
+2. Which shipping method performs best?
