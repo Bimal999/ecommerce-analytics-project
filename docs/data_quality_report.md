@@ -6,8 +6,16 @@
 
 ## Data Type Issues
 
-## Business Rule Violations
+## Invalid Values
 
-## Outliers
+### Age Validation
+
+### Rating Validation
+
+### Discount Validation
+
+### Quantity Validation
+
+## Outlier Analysis
 
 ## Recommended Cleaning Actions
